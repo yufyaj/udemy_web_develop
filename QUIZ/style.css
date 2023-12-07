@@ -40,6 +40,6 @@ div.section {
     margin-top: 2em;
 }
 
-div.section-collect-answer {
+div#section-correct-answer {
     display: none;
 }
