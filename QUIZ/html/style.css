@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
+
+body {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h2 {
+    border-bottom: 1px solid #a2a9b1;
+}
+
+ul li, ol li {
+    padding: 1em 1em;
+    list-style-position: inside;
+}
+
+ol.answers {
+    list-style: upper-alpha;
+}
+
+ol.answers li:hover {
+    border: 0.2em solid #1e366a;
+    background-color: #be1313;
+    padding: 0.83em 0.8em;
+}
+
+.collect-answer {
+    font-weight: bold;
+    color: #f05959;
+}
+
+div#main {
+    padding: 0 1.5em;
+}
+
+div.section {
+    margin-top: 2em;
+}
+
+div#section-correct-answer {
+    display: none;
+}

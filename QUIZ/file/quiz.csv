@@ -1,0 +1,5 @@
+"id","question","answer_a","answer_b","answer_c","answer_d","correct_answer","explanation"
+"1","テスト問題ですA","回答A_1","回答B_1","回答C_1","回答D_1","B","追記事項
+です。"
+"2","テスト問題ですB","回答A_2","回答B_2","回答C_2","回答D_2","C","備考"
+"3","テスト問題ですC","回答A_3","回答B_3","回答C_3","回答D_3","A","Remarks"
